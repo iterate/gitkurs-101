@@ -20,12 +20,18 @@ Du har nå et git-repo som inneholder denne README-filen, samt en fil som heter 
 
 ### Sjekk inn kode
 
-Rediger brukere.txt, legg til navnet ditt på en ny linje, _commit_ endringen din og _push_ commiten opp til Github. Gå så til Github og verifiser at filen inneholder det du redigerte.
+1. Lag en ny branch  
+2. Rediger brukere.txt  
+3. legg til navnet ditt på en ny linje  
+4. _commit_ endringen din og _push_ commiten opp til Github.  
+5. Gå så til Github og verifiser at filen inneholder det du redigerte.  
+6. Opprett en pull request på Github  
 
 For hjelp til hvordan du skal gjøre dette kan du gå igjennom tutorialen på http://try.github.com/
 
 ## Ressurser
 
+* https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
 * http://git-scm.com/
 * http://gitready.com/
 * http://nfarina.com/post/9868516270/git-is-simpler
