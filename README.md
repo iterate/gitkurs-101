@@ -25,7 +25,9 @@ Du har nå et git-repo som inneholder denne README-filen, samt en fil som heter 
 3. legg til navnet ditt på en ny linje  
 4. _commit_ endringen din og _push_ commiten opp til Github.  
 5. Gå så til Github og verifiser at filen inneholder det du redigerte.  
-6. Opprett en pull request på Github  
+6. Opprett en pull request på Github
+7. Gi feedback på noen andre sin pull request
+8. Når din pull request er akseptert, merge den inn i master 
 
 For hjelp til hvordan du skal gjøre dette kan du gå igjennom tutorialen på http://try.github.com/
 
