@@ -1,31 +1,23 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-pantea
-=======
+SISTE VERSJON!!!!
 Emma 
 Victoria
->>>>>>> main
-=======
+
+
+
+
+
+
+
+
+majameland
+pantea
 Elisabeth
 Eline
 Thusan hihi
-<<<<<<< HEAD
-<<<<<<< HEAD
 
->>>>>>> origin/main
-=======
 Erlend
 HC
->>>>>>> origin/main
-=======
-<<<<<<< HEAD
 
->>>>>>> 437f153129e92c60902823e603bb64dcec371385
-=======
-Erlend
->>>>>>> c7f435ba149840843720b2dfcc33b7a3e142ed4b
-=======
 Erlend
 Helge
->>>>>>> ff424ab2302dff72b8923bbcbb8ff482e4d975cc
->>>>>>> main
+
