@@ -4,5 +4,9 @@ pantea
 Elisabeth
 Eline
 Thusan hihi
+<<<<<<< HEAD
 
+>>>>>>> origin/main
+=======
+Erlend
 >>>>>>> origin/main
