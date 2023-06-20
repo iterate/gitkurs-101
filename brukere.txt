@@ -15,6 +15,7 @@ Thusan hihi
 >>>>>>> origin/main
 =======
 Erlend
+HC
 >>>>>>> origin/main
 =======
 <<<<<<< HEAD
