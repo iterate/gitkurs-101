@@ -1,11 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+pantea
+=======
 Emma 
 Victoria
+>>>>>>> main
 =======
 Elisabeth
 Eline
 Thusan hihi
 <<<<<<< HEAD
+<<<<<<< HEAD
+
+>>>>>>> origin/main
+=======
+Erlend
+>>>>>>> origin/main
+=======
 <<<<<<< HEAD
 
 >>>>>>> 437f153129e92c60902823e603bb64dcec371385
@@ -16,3 +27,4 @@ Erlend
 Erlend
 Helge
 >>>>>>> ff424ab2302dff72b8923bbcbb8ff482e4d975cc
+>>>>>>> main
